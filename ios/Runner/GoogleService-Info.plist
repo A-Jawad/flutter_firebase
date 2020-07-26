@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>979321466670-1i9do3crklpifp0sv4j8clpber226lgj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.979321466670-1i9do3crklpifp0sv4j8clpber226lgj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>979321466670-9gub3ip6q1vdp7rm7ecvld1fbm4c8fn3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhGbBxFN3bhVRPBuwJAMjSfO5CWWm2quo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>979321466670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lamassu.accurider</string>
+	<key>PROJECT_ID</key>
+	<string>truck01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>truck01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:979321466670:ios:bbb568bcb7b8f1b95dd4bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://truck01.firebaseio.com</string>
+</dict>
+</plist>
