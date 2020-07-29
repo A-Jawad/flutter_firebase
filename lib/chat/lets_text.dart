@@ -161,7 +161,7 @@ class Message {
 enum MessageType { IncomingText, OutgoingText }
 
 class TextMessage extends StatefulWidget {
-  Message message;
+  final Message message;
 
   TextMessage({this.message});
 
